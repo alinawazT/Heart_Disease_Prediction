@@ -1,7 +1,6 @@
 # ML based Heart health detection
 Packages used
 •	PyCharm
-•	Jupyter notebook
 •	Bootstraps
 Project Running
 1.	Jupyter Notebook
